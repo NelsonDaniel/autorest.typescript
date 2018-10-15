@@ -26,6 +26,7 @@
   "homepage": "https://github.com/Azure/autorest.typescript/blob/master/README.md",
   "devDependencies": {
     "@microsoft.azure/autorest.modeler": "^2.3.51",
+    "dotnet-sdk-2.0.0": "^1.4.4",
     "autorest": "^2.0.4280"
   },
   "dependencies": {
