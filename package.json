@@ -5,7 +5,6 @@
   "scripts": {
     "autorest": "autorest",
     "start": "dotnet src/bin/netcoreapp2.0/autorest.typescript.dll --server",
-    "start-test-server": "ts-node -T testserver",
     "pretest": "npm install",
     "test": "gulp test",
     "testci": "gulp testci",
